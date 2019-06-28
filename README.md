@@ -9,7 +9,7 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/dns-pointing-all-operator/master/dnspointing2.jpg)
 
 # LIVE CURL SCANNING BUG AKTIF
-![be](https://raw.githubusercontent.com/boychongzen18/dns-pointing-all-operator/master/dnspointing2.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/dns-pointing-all-operator/master/dnspointing3.jpg)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 

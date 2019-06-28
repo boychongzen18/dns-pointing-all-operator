@@ -1,4 +1,6 @@
-# DNS-Pointing-All-Operator
+# DNS Pointing All Operator & All Sosmed 
+
+# Scanning Bug Bisa Pakai Termux & Windows All Version
 
 # LIVE AKUN DNS POINTING
 
